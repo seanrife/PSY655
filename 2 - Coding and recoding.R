@@ -147,17 +147,6 @@ add_two <- function(x,y) {
 # Write a function that accepts a vector of numbers and adds them together
 
 
-
-
-
-
-
-
-
-
-
-
-
 add_all <- function(x) {
   sum <- 0
   for (i in x) {
@@ -168,10 +157,6 @@ add_all <- function(x) {
 
 
 
-
-
-
-
 add_all <- function(x) {
   return(sum(x))
 }
@@ -179,20 +164,7 @@ add_all <- function(x) {
 
 
 
-
-
-
-
-
-
-
 # Write a function that takes two lists of names and sees if anyone is in both
-
-
-
-
-
-
 
 
 
